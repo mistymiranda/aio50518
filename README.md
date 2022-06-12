@@ -7,3 +7,5 @@
 3. go to vs code clone this repository    
 4. vs code 安裝 python extension
 5. pip install flask, pandas, sklearn
+   * hotkey : ctrl+ shift+p ===>package manager 叫出(git clone...)
+   * hotkey : ctrl + ~ 叫出終端機
