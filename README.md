@@ -1,8 +1,8 @@
-# Homework #5  
-<img scr="https://www.highcharts.com/demo">  
-## Lecture 13 : IoT Flask Web (github, vs code)  
-### Development Environment Setup
+# Homework #5    
+<img scr="https://www.highcharts.com/demo/images/samples/highcharts/demo/line-basic/thumbnail.png" />   
+## Lecture 13 : IoT Flask Web (github, vs code)    
+### Development Environment Setup  
 1.Please install vs code, register github  
-2. github create a new repository (aioT0518)    
-3. go to vs code clone this repository  
+2. github create a new repository (aioT0518)      
+3. go to vs code clone this repository    
 4. 
