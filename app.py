@@ -4,7 +4,7 @@ app=Flask (__name__)
 
 @app.route("/")
 def index():
-    return",<h2>hello world<h2>"
+    return app.send_static_file('index.html')
 
 if __name__=='__main__':
     app.run("127.0.0.1",5050,debug=True)
