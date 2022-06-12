@@ -5,4 +5,5 @@
 1.Please install vs code, register github, install git for windows    
 2. github create a new repository (aioT0518)      
 3. go to vs code clone this repository    
-4. 
+4. vs code 安裝 python extension
+5. pip install flask, pandas, sklearn
